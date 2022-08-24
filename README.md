@@ -2,6 +2,7 @@
 Solución en Java al Problema de los Filósofos Comelones.
 
 El programa en ejecución se ve de la siguiente manera:
+
 ![imagen](https://user-images.githubusercontent.com/90994691/186479739-fb8847b4-b05e-4d46-8865-a0c1ae8eb955.png)
 
 
