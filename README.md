@@ -1,4 +1,4 @@
-# FilosofosComelonesJAVA
+# FilosofosComelones - JAVA
 Solución en Java al Problema de los Filósofos Comelones.
 
 El programa en ejecución se ve de la siguiente manera:
