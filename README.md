@@ -16,7 +16,7 @@ Java 7 o superior (para ejecutar la Aplicación). O en su defecto abriendo el ar
 
 
 # Instalación
-No se requiere, se programa se ejecuta abriendo el archivo que se encuentra en /dist/filosofosComelones.jar.
+No se requiere, el programa se ejecuta abriendo el archivo que se encuentra en /dist/filosofosComelones.jar.
 **Nota: Para la correcta ejecución del programa se requiere que la librería "Absolute Layout" se encuentre agregada al proyecto.**
 
 
